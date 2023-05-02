@@ -24,13 +24,13 @@ For a detailed description of our methodology, please refer to the Methods secti
 - This script assumes that you have R and RStudio installed on your system.
 
 ### Authors
-- Tobias B. Polak <sup>1,2,3,4,*</sup>
-- David G.J. Cucchi <sup>5,6</sup>
+- Tobias B. Polak <sup>1,2,3,4,*</sup> (ORCID: 0000-0002-2720-3479)
+- David G.J. Cucchi <sup>5,6</sup> (ORCID: 0000-0001-6706-5464)
 - Jasmin Schelhaas <sup>1</sup>
 - Syed S. Ahmed <sup>1</sup>
 - Naima Khoshnaw <sup>1</sup>
-- Joost van Rosmalen <sup>2,3</sup>
-- Carin A. Uyl - de Groot <sup>4</sup>
+- Joost van Rosmalen <sup>2,3</sup> (ORCID: 0000-0002-9187-244X)
+- Carin A. Uyl - de Groot <sup>4</sup> (ORCID: 0000-0001-6492-5203)
 
 <sup>1</sup> Real-World Data Department, myTomorrows, Amsterdam, Netherlands
 
@@ -58,3 +58,16 @@ For a detailed description of our methodology, please refer to the Methods secti
 3. PM_DATA Animation:
    ![PM_DATA Animation](/Animations/3_PM_DATA.gif)
    Depicts the extraction of all relevant information from the papers to populate a proprietary database.
+   
+## Author Contributions
+TBP conceived the idea for this review. TBP, DGJC, SSA, JS, and NK collected and labelled the data. TBP and JvR performed the statistical analysis. TBP drafted the manuscript. DGJC, JvR, and CAU-dG critically revised the manuscript. All authors approved the final version of the manuscript.
+
+## Statements and Declarations
+CAU-dG has received unrestricted grants from Boehringer Ingelheim, Astellas, Celgene, Sanofi, Janssen-Cilag, Bayer, Amgen, Genzyme, Merck, Glycostem Therapeutics, Astra Zeneca, Roche, and Merck. TBP works part-time for expanded access service provider myTomorrows, in which he holds stock and stock options (< 0.01%). He is contractually free to publish, and the service provider is not involved in any of his past or ongoing research, nor in this manuscript. DGJC received payments for lectures for Takeda, and conference visit support from Servier, all outside the submitted work. JS, SSA, NK, and JVR do not report any conflicts of interest.
+
+## Funding
+CAU-dG, JvR, and TBP work on a Dutch government grant from HealthHolland. For this grant, they research legal, ethical, policy, and statistical issues of evidence generation in expanded access programs (EMCLSH20012). HealthHolland is a funding vehicle for the Dutch Ministry of Economic Affairs and Climate Policy that addresses the Dutch Life Sciences & Health sector.
+
+## Acknowledgements
+We would like to express our gratitude to Rebeca Domínguez for helping with the animations.
+
