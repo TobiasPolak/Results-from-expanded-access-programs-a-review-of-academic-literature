@@ -41,6 +41,14 @@ For a detailed description of our methodology, please refer to the Methods secti
 <sup>*</sup> Corresponding author: t.polak@erasmusmc.nl
 
 ## Graphical Information
-1. [Pubmed Animation](/Animations/1_Pubmed.gif): Depicts the search on Pubmed, where we categorize papers as relevant, irrelevant, or unclear.
-2. [Unclear Animation](/Animations/2_Unclear.gif): Depicts the process of resolving edge cases with multiple independent reviewers.
-3. [PM_DATA Animation](/Animations/3_PM_DATA.gif): Depicts the extraction of all relevant information from the papers to populate a proprietary database.
+1. Pubmed Animation:
+   ![Pubmed Animation](/Animations/1_Pubmed.gif)
+   Depicts the search on Pubmed, where we categorize papers as relevant, irrelevant, or unclear.
+   
+2. Unclear Animation:
+   ![Unclear Animation](/Animations/2_Unclear.gif)
+   Depicts the process of resolving edge cases with multiple independent reviewers.
+   
+3. PM_DATA Animation:
+   ![PM_DATA Animation](/Animations/3_PM_DATA.gif)
+   Depicts the extraction of all relevant information from the papers to populate a proprietary database.
