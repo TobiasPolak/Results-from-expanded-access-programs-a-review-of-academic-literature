@@ -47,15 +47,15 @@ For a detailed description of our methodology, please refer to the Methods secti
 <sup>*</sup> Corresponding author: t.polak@erasmusmc.nl
 
 ## Graphical Information
-1. Pubmed Animation:
+1. Initial independent systematic search of PubMed articles based on 'expanded access terms'. Papers were considered relevant if they described new data of a therapeutic intervention delivered under expanded access.
    ![Pubmed Animation](/Animations/1_PubMed.gif)
    Depicts the search on Pubmed, where we categorize papers as relevant, irrelevant, or unclear. If independent researchers didn't agree on in or exclusion, papers were categorized as unclear. These papers were subsequently analyzed by a third independent reviewer.
    
-2. Unclear Animation:
+2. All articles were assessed at least twice. Discordance was resolved by a third independent author.
    ![Unclear Animation](/Animations/2_Unclear.gif)
    Depicts the process of resolving edge cases (unclear) with multiple independent reviewers.
    
-3. PM_DATA Animation:
+3. For all relevant articles, we extracted all relevant information into a database. We labelled articles for time of publication, research location (country, national/international, single-center/multi-center), number of patients, research methodology (retrospective/prospective), drug, disease, and disease area, among others.
    ![PM_DATA Animation](/Animations/3_PM_DATA.gif)
    Depicts the extraction of all relevant information from the papers to populate a proprietary database.
    
