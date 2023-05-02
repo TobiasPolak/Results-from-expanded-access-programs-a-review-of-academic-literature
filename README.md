@@ -48,12 +48,12 @@ For a detailed description of our methodology, please refer to the Methods secti
 
 ## Graphical Information
 1. Pubmed Animation:
-   ![Pubmed Animation](/Animations/1_Pubmed.gif)
-   Depicts the search on Pubmed, where we categorize papers as relevant, irrelevant, or unclear.
+   ![Pubmed Animation](/Animations/1_PubMed.gif)
+   Depicts the search on Pubmed, where we categorize papers as relevant, irrelevant, or unclear. If independent researchers didn't agree on in or exclusion, papers were categorized as unclear. These papers were subsequently analyzed by a third independent reviewer.
    
 2. Unclear Animation:
    ![Unclear Animation](/Animations/2_Unclear.gif)
-   Depicts the process of resolving edge cases with multiple independent reviewers.
+   Depicts the process of resolving edge cases (unclear) with multiple independent reviewers.
    
 3. PM_DATA Animation:
    ![PM_DATA Animation](/Animations/3_PM_DATA.gif)
