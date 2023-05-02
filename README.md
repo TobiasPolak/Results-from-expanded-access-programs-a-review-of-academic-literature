@@ -33,11 +33,17 @@ For a detailed description of our methodology, please refer to the Methods secti
 - Carin A. Uyl - de Groot <sup>4</sup>
 
 <sup>1</sup> Real-World Data Department, myTomorrows, Amsterdam, Netherlands
+
 <sup>2</sup> Department of Biostatistics, Erasmus Medical Center, Rotterdam, Netherlands
+
 <sup>3</sup> Department of Epidemiology, Erasmus Medical Center, Rotterdam, Netherlands
+
 <sup>4</sup> Erasmus School of Health Policy & Management, Erasmus University Rotterdam, Rotterdam, Netherlands
+
 <sup>5</sup> Department of Hematology, Amsterdam UMC, Vrije Universiteit Amsterdam, Cancer Center Amsterdam, Amsterdam, Netherlands
+
 <sup>6</sup> Department of Internal Medicine, Franciscus Gasthuis & Vlietland, Rotterdam, The Netherlands
+
 <sup>*</sup> Corresponding author: t.polak@erasmusmc.nl
 
 ## Graphical Information
