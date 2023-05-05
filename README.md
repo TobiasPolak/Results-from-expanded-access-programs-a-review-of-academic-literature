@@ -58,6 +58,10 @@ For a detailed description of our methodology, please refer to the Methods secti
 3. For all relevant articles, we extracted all relevant information into a database. We labelled articles for time of publication, research location (country, national/international, single-center/multi-center), number of patients, research methodology (retrospective/prospective), drug, disease, and disease area, among others.
    ![PM_DATA Animation](/Animations/3_PM_DATA.gif)
    Depicts the extraction of all relevant information from the papers to populate a proprietary database.
+
+4. From this unique database, we could derive various insights.
+![Data Chart Animation](/Animations/4_DataCharts.gif)
+   Depicts the extraction of all relevant information from the papers to populate a proprietary database.
    
 ## Author Contributions
 TBP conceived the idea for this review. TBP, DGJC, SSA, JS, and NK collected and labelled the data. TBP and JvR performed the statistical analysis. TBP drafted the manuscript. DGJC, JvR, and CAU-dG critically revised the manuscript. All authors approved the final version of the manuscript.
